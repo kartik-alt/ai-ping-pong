@@ -1,0 +1,39 @@
+.heading{
+    width:100%;
+    text-align: left;
+   
+   }
+   
+   .heading button{
+   
+       float: right;
+   
+   }
+   
+    
+   
+   
+   
+   
+   
+   .modal-dialog{
+   
+   width:90%;
+   
+   
+   
+   
+   }
+   
+   .modalimg{
+   
+       display: inline-block;
+       width:45%;
+   
+   
+   }
+
+   canvas{
+
+    border:5px solid white;
+   }
